@@ -1,3 +1,4 @@
+package GUI;
 import javafx.application.Application;
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
@@ -6,7 +7,7 @@ import javafx.scene.control.Button;
 import javafx.scene.layout.StackPane;
 import javafx.stage.Stage;
 
-public class GUISec extends Application implements EventHandler<ActionEvent> {
+public class ClickToBeHeroooooooo extends Application implements EventHandler<ActionEvent> {
 
 	Button button;
 	

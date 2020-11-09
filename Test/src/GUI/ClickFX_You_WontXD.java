@@ -1,3 +1,4 @@
+package GUI;
 import javafx.application.Application;
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
@@ -7,7 +8,7 @@ import javafx.scene.layout.StackPane;
 import javafx.stage.Stage;
 
 
-	public class GUIFirst extends Application {
+	public class ClickFX_You_WontXD extends Application {
 	
 		Button button;
 		
